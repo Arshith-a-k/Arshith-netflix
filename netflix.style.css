@@ -1,0 +1,127 @@
+
+
+#netf{
+    position: fixed;
+    top: 20px;
+    right: 1100px;
+}
+
+#st{
+    color: rgb(234, 228, 228);
+    position: fixed;
+    top: -3px;
+    right: 1025px;
+    bottom: 8px;
+    font-family: nunito sans;
+}
+ 
+#sh{
+    color: rgb(202, 198, 198);
+    position: fixed;
+    top: -3px;
+    right: 950px;
+    bottom: 8px;
+    font-family: nunito sans;
+}
+
+#mov{
+    color: rgb(202, 198, 198);
+    position: fixed;
+    top: -3px;
+    right: 875px;
+    bottom: 8px;
+    font-family: nunito sans;
+}
+
+#new{
+    color: rgb(202, 198, 198);
+    position: fixed;
+    top: -3px;
+    right: 820px;
+    bottom: 8px;
+    font-family: nunito sans;
+}
+
+#list{
+    color: rgb(202, 198, 198);
+    position: fixed;
+    top: -3px;
+    right: 750px;
+    bottom: 8px;
+    font-family: nunito sans;
+}
+
+#mmm{
+    color: rgb(250, 249, 249);
+    font-weight: 900;
+    font-family: nunito sans;
+    position: fixed;
+    top: 300px;
+    right: 675px;
+    left: 130px;
+    bottom: 100px;
+}
+
+#log{
+    position: fixed;
+    top: 300px;
+    right: 800px;
+    bottom: 100px;
+    left: 130px;
+}
+
+#shh{
+    position: fixed;
+    color: white;
+    top: 280px;
+    right: 880px;
+    bottom: 100px;
+    left: 160px;
+    font-family: nunito sans;
+
+}
+
+#see{
+    position: fixed;
+    color: white;
+    top: 400px;
+    right: 880px;
+    bottom: 50px;
+    left: 120px;
+    font-family: nunito sans;
+
+}
+
+}
+#you{
+    position: fixed;
+    right: 950px;
+}
+
+#snn{
+    position: fixed;
+    right: 750px;
+}
+
+#snow{
+    position: fixed;
+    right: 480px;
+}
+
+#lly{
+    position: fixed;
+    right: 210px;
+}
+#money{
+    position: fixed;
+    right: 40px;
+}
+
+#prff{
+    position: fixed;
+    right: 50px;
+    top: 60px;
+}
+
+
+
